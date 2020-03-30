@@ -100,7 +100,7 @@
     "classnames": "^2.2.5",
     "clone": "^2.1.2",
     "copy-to-clipboard": "^3.0.8",
-    "currency-formatter": "^1.4.2",
+    "currency-formatter": "^1.5.5",
     "d3": "^5.15.0",
     "debounce": "1.1.0",
     "debounce-stream": "^2.0.0",
