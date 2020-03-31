@@ -112,7 +112,7 @@
     "end-of-stream": "^1.1.0",
     "ensnare": "^1.0.0",
     "eth-bin-to-ops": "^1.0.1",
-    "eth-block-tracker": "^4.1.0",
+    "eth-block-tracker": "^4.4.3",
     "eth-contract-metadata": "github:MetaMask/eth-contract-metadata#master",
     "eth-ens-namehash": "^2.0.8",
     "eth-hd-keyring": "^1.2.2",
